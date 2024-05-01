@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bucky70
 - 👀 I’m interested in ... Full Stack and machine learning
-- 🌱 I’m currently learning ... Full Stack development
+- 🌱 I’m currently ...A Full Stack developer
 - 📫 How to reach me ... saikumarpadamati@gmail.com / saikumarchinna3@gmail.com
 
 <!---
