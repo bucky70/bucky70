@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bucky70 => Saikumar Padamati
 - 👀 I’m interested in ... Full Stack and machine learning
 - 🌱 I’m currently ...A Full Stack developer
+- https://saikumar-portfolio.netlify.app/
+- https://leetcode.com/u/saikumar1998/
 - 📫 How to reach me ... saikumarpadamati@gmail.com / saikumarchinna3@gmail.com
 
 <!---
