@@ -3,7 +3,7 @@
 - 🌱 I’m currently ...A Full Stack developer
 - https://saikumar-portfolio.netlify.app/
 - https://leetcode.com/u/saikumar1998/
-- 📫 How to reach me ... saikumarpadamati@gmail.com / saikumarchinna3@gmail.com
+- 📫 How to reach me ... saikumarpadamati@gmail.com
 
 <!---
 bucky70/bucky70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
